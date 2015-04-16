@@ -17,10 +17,10 @@ class SplashController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let timer = NSTimer.scheduledTimerWithTimeInterval(2.0, target: self, selector: "timeToMoveOn", userInfo: nil, repeats: false)
+        let timer = NSTimer.scheduledTimerWithTimeInterval(3.0, target: self, selector: "timeToMoveOn", userInfo: nil, repeats: false)
         
-        for i in 0...71{
-            let imageName = "t\(i)"
+        for i in 0...29{
+            let imageName = "r\(i)"
             imageList.append(UIImage(named: imageName)!)
         }
         
