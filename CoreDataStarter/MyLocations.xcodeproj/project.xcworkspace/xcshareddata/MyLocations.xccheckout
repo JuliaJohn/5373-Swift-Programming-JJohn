@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BB561B51-A74C-4AD3-A548-F68D1DA6F147</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyLocations</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>515DFA2C92932BD50A18D8435FFF2E0096CA70C0</key>
+		<string>https://github.com/JuliaJohn/5373-Swift-Programming-JJohn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreDataStarter/MyLocations.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>515DFA2C92932BD50A18D8435FFF2E0096CA70C0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JuliaJohn/5373-Swift-Programming-JJohn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>515DFA2C92932BD50A18D8435FFF2E0096CA70C0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>515DFA2C92932BD50A18D8435FFF2E0096CA70C0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>5373-Swift-Programming-JJohn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
